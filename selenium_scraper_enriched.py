@@ -6,6 +6,7 @@ from google.cloud import dialogflow_v2 as dialogflow
 from google.oauth2 import service_account
 import uuid
 import time
+import web-scraping-project-python-ab3ce8536ba4.json
 
 # Manually set up Google Cloud credentials using the JSON key
 credentials = service_account.Credentials.from_service_account_file(
