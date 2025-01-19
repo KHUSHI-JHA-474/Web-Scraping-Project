@@ -9,7 +9,7 @@ import time
 
 # Manually set up Google Cloud credentials using the JSON key
 credentials = service_account.Credentials.from_service_account_file(
-    r'C:\Users\Ayush Kumar Jha\Downloads\web-scraping-project-python-ab3ce8536ba4.json'
+    r'web-scraping-project-python-ab3ce8536ba4.json'
 )
 
 # Function to perform Google search and get results
